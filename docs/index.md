@@ -1,3 +1,3 @@
 ## Minecraft Discord Support Pastes
 
-Here we go
+Test link [test](/test)
