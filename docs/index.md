@@ -1,3 +1,4 @@
 ## Minecraft Discord Support Pastes
 
-Test link [test](test)
+### Bedrock pastes
+[Bedrock pastes](bedrock)
