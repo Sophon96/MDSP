@@ -68,7 +68,7 @@ Open the start menu > type and open Credential Manager > Windows Credentials > �
 Visual Steps: https://imgur.com/gallery/P2JYmMt
 ```
 
-## Unable to install Minecraft on Windows 10 (and verified they bought the correct edition in the Store)
+### Unable to install Minecraft on Windows 10 (and verified they bought the correct edition in the Store)
 ```md
 1. I found a solution. Log in with your microsoft account on chrome, microsoft edge, etc, and unlink all of your devices, except the one you're using. It should stop the 'unlock full game' button from appearing when you're not using minecraft. If your uninstalled minecraft, reinstall it. (When you launch minecraft, you may want to sign in with your microsoft account (optional).)
 
@@ -77,5 +77,5 @@ left
 If you've owned your account for a long time you may have hit your device limit of 10 devices. If the machine you are on is not in this list, then you can't download licensed content to it and use it... it's easy to fix, however, just remove one of the many devices you probably don't use or have anymore)… then I'd recommend you uninstall the game and reinstall it (which will acquire a license from the store and install it)… try it after that.
 ```
 
-## Credits: David Wang, ID=499810861335183372, Tag=#1365
+### Credits: David Wang, ID=499810861335183372, Tag=#1365
 
